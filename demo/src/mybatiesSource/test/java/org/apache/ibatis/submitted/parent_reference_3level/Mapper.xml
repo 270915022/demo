@@ -1,0 +1,33 @@
+5taQTTEeeRRJQCJ3TXsw" keySequence="CTRL+SHIFT+X" command="_Au9_DwTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tagTTEeeRRJQCJ3TXsw" keySequence="CTRL+F10" command="_Au-ATwTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tawTTEeeRRJQCJ3TXsw" keySequence="END" command="_Au-AbgTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tbATTEeeRRJQCJ3TXsw" keySequence="CTRL+NUMPAD_ADD" command="_Au-AvwTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tbQTTEeeRRJQCJ3TXsw" keySequence="INSERT" command="_Au9_UQTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tbgTTEeeRRJQCJ3TXsw" keySequence="SHIFT+CR" command="_Au-AmwTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tbwTTEeeRRJQCJ3TXsw" keySequence="CTRL+SHIFT+NUMPAD_DIVIDE" command="_Au9_UwTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tcATTEeeRRJQCJ3TXsw" keySequence="CTRL++" command="_Au9_iQTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tcQTTEeeRRJQCJ3TXsw" keySequence="ALT+SHIFT+Y" command="_Au9X3QTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tcgTTEeeRRJQCJ3TXsw" keySequence="CTRL+SHIFT+NUMPAD_MULTIPLY" command="_Au9_3gTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tcwTTEeeRRJQCJ3TXsw" keySequence="CTRL+SHIFT+J" command="_Au9YsQTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tdATTEeeRRJQCJ3TXsw" keySequence="CTRL+SHIFT+INSERT" command="_Au9YoATTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tdQTTEeeRRJQCJ3TXsw" keySequence="CTRL+NUMPAD_SUBTRACT" command="_Au-AUgTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tdgTTEeeRRJQCJ3TXsw" keySequence="CTRL+L" command="_Au-AKgTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tdwTTEeeRRJQCJ3TXsw" keySequence="CTRL+SHIFT+K" command="_Au9YgwTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5teATTEeeRRJQCJ3TXsw" keySequence="HOME" command="_Au-AngTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5teQTTEeeRRJQCJ3TXsw" keySequence="CTRL+SHIFT+CR" command="_Au-AUwTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tegTTEeeRRJQCJ3TXsw" keySequence="CTRL+NUMPAD_MULTIPLY" command="_Au9_1ATTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tewTTEeeRRJQCJ3TXsw" keySequence="ALT+ARROW_UP" command="_Au-A_QTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tfATTEeeRRJQCJ3TXsw" keySequence="CTRL+DEL" command="_Au9ZIQTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tfQTTEeeRRJQCJ3TXsw" keySequence="CTRL+=" command="_Au9_iQTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tfgTTEeeRRJQCJ3TXsw" keySequence="ALT+CTRL+ARROW_DOWN" command="_Au9ZqQTTEeeRRJQCJ3TXsw"/>
+  </bindingTables>
+  <bindingTables xmi:id="_Au5tfwTTEeeRRJQCJ3TXsw" elementId="org.eclipse.ui.contexts.window" bindingContext="_Au6VKgTTEeeRRJQCJ3TXsw">
+    <bindings xmi:id="_Au5tgATTEeeRRJQCJ3TXsw" keySequence="ALT+CTRL+SHIFT+ARROW_RIGHT" command="_Au9_TQTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tgQTTEeeRRJQCJ3TXsw" keySequence="ALT+CTRL+D" command="_Au9_awTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tggTTEeeRRJQCJ3TXsw" keySequence="ALT+ARROW_RIGHT" command="_Au9ZSgTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tgwTTEeeRRJQCJ3TXsw" keySequence="CTRL+B" command="_Au9YLATTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5thATTEeeRRJQCJ3TXsw" keySequence="CTRL+SHIFT+A" command="_Au9_rgTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5thQTTEeeRRJQCJ3TXsw" keySequence="ALT+CTRL+SHIFT+ARROW_UP" command="_Au9_YgTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5thgTTEeeRRJQCJ3TXsw" keySequence="ALT+CTRL+SHIFT+A" command="_Au9_vwTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5thwTTEeeRRJQCJ3TXsw" keySequence="ALT+CTRL+C" command="_Au-A2wTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5tiATT

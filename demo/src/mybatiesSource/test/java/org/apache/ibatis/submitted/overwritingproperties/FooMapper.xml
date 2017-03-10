@@ -1,0 +1,32 @@
+gs>
+        <tags>popup:org.eclipse.debug.ui.DebugView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_Au4gcgTTEeeRRJQCJ3TXsw" elementId="org.eclipse.debug.ui.DebugView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.DebugView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_Au4gcwTTEeeRRJQCJ3TXsw" elementId="org.eclipse.debug.ui.DebugView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.DebugView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_Au4gdATTEeeRRJQCJ3TXsw" elementId="org.eclipse.debug.ui.DebugView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.DebugView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_Au4gdQTTEeeRRJQCJ3TXsw" elementId="org.eclipse.debug.ui.DebugView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.DebugView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_Au4gdgTTEeeRRJQCJ3TXsw" elementId="org.eclipse.debug.ui.DebugView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.DebugView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_Au4gdwTTEeeRRJQCJ3TXsw" elementId="org.eclipse.debug.ui.DebugView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.DebugView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_Au4geATTEeeRRJQCJ3TXsw" elementId="org.eclipse.debug.ui.DebugView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.debug.ui.DebugView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_Au4geQTTEeeRRJQCJ3TXsw" e

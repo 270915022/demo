@@ -1,0 +1,24 @@
+tId="save">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Au5GbQTTEeeRRJQCJ3TXsw" elementId="saveAll">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Au5GbgTTEeeRRJQCJ3TXsw" elementId="save.ext" visible="false">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Au5GbwTTEeeRRJQCJ3TXsw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_Au-ASgTTEeeRRJQCJ3TXsw"/>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Au5GcATTEeeRRJQCJ3TXsw" elementId="print.ext" visible="false">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Au5GcQTTEeeRRJQCJ3TXsw" elementId="build.group">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Au5GcgTTEeeRRJQCJ3TXsw" elementId="build.ext" visible="false">
+          <tags>Opaque</tags>
+        </children>
+        <children xsi:type="menu:DirectToolItem" xmi:id="_Au5GcwTTEeeRRJQCJ3TXsw" elementId="additions">
+          <tags>Opaque</tags>
+        </children>
+      </children>
+      <children xsi:type="menu:ToolBar" xmi:id="_A

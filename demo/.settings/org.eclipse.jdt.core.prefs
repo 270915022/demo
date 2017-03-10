@@ -1,0 +1,6 @@
+)_jspx_page_context, null, false));
+      out.write("/tc_ttp/common/function.js\"></script>\r\n");
+      out.write("<script type=\"text/javascript\" src=\"");
+      out.write((java.lang.String) org.apache.jasper.runtime.PageContextImpl.proprietaryEvaluate("${path }", java.lang.String.class, (javax.servlet.jsp.PageContext)_jspx_page_context, null, false));
+      out.write("/tc_ttp/common/tc.js?tcVersion=");
+      out.write((java.lang.String) org.apache.jasper.runtime.PageContextImpl.proprietaryEvaluate("${pageContext.request.tcVersion}", java.lang.String.class, (javax.servlet.jsp.PageCon

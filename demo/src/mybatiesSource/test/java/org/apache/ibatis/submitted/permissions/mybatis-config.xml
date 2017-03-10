@@ -1,0 +1,14 @@
+J" command="_Au9_tATTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5t_QTTEeeRRJQCJ3TXsw" keySequence="ALT+SHIFT+Q C" command="_Au9_nwTTEeeRRJQCJ3TXsw">
+      <parameters xmi:id="_Au5t_gTTEeeRRJQCJ3TXsw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.ui.console.ConsoleView"/>
+    </bindings>
+    <bindings xmi:id="_Au5t_wTTEeeRRJQCJ3TXsw" keySequence="ALT+SHIFT+X T" command="_Au9ZnQTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5uAATTEeeRRJQCJ3TXsw" keySequence="ALT+SHIFT+Q B" command="_Au9_nwTTEeeRRJQCJ3TXsw">
+      <parameters xmi:id="_Au5uAQTTEeeRRJQCJ3TXsw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.debug.ui.BreakpointView"/>
+    </bindings>
+    <bindings xmi:id="_Au5uAgTTEeeRRJQCJ3TXsw" keySequence="ALT+SHIFT+X R" command="_Au9-xQTTEeeRRJQCJ3TXsw"/>
+    <bindings xmi:id="_Au5uAwTTEeeRRJQCJ3TXsw" keySequence="ALT+SHIFT+Q P" command="_Au9_nwTTEeeRRJQCJ3TXsw">
+      <parameters xmi:id="_Au5uBATTEeeRRJQCJ3TXsw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" value="org.eclipse.jdt.ui.PackageExplorer"/>
+    </bindings>
+    <bindings xmi:id="_Au5uBQTTEeeRRJQCJ3TXsw" keySequence="ALT+SHIFT+Q Y" command="_Au9_nwTTEeeRRJQCJ3TXsw">
+      <parameters xmi:id="_Au5uBgTTEeeRRJQCJ3TXsw" elementId="org.eclipse.ui.views.showView.viewId" name="org.eclipse.ui.views.showView.viewId" valu

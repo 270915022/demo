@@ -1,0 +1,28 @@
+
+      <menus xsi:type="menu:PopupMenu" xmi:id="_ZlJQ1QS9EeeRRJQCJ3TXsw" elementId="org.eclipse.wst.server.ui.ServersView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.wst.server.ui.ServersView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_ZlJQ1gS9EeeRRJQCJ3TXsw" elementId="org.eclipse.wst.server.ui.ServersView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.wst.server.ui.ServersView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_ZlJQ1wS9EeeRRJQCJ3TXsw" elementId="org.eclipse.wst.server.ui.ServersView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.wst.server.ui.ServersView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_ZlJQ2AS9EeeRRJQCJ3TXsw" elementId="org.eclipse.wst.server.ui.ServersView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.wst.server.ui.ServersView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_ZlJQ2QS9EeeRRJQCJ3TXsw" elementId="org.eclipse.wst.server.ui.ServersView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.wst.server.ui.ServersView</tags>
+      </menus>
+      <menus xsi:type="menu:PopupMenu" xmi:id="_ZlJQ2gS9EeeRRJQCJ3TXsw" elementId="org.eclipse.wst.server.ui.ServersView">
+        <tags>menuContribution:popup</tags>
+        <tags>popup:org.eclipse.wst.server.ui.ServersView</tags>
+      </menus>
+      <toolbar xmi:id="_ZlJQ_QS9EeeRRJQCJ3TXsw" elementId="org.eclipse.wst.server.ui.ServersView" visible="false"/>
+    </sharedElements>
+    <sharedElements xsi:type="basic:Part" xmi:id="_ZlJRBQS9EeeRRJQCJ3TXsw" elementId="org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView"
